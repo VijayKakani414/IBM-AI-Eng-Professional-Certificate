@@ -1,5 +1,8 @@
 # IBM AI Engineering Professional Certificate Repository
 This repository is designed to assist students and colleagues in completing the IBM AI Engineering Professional Certificate course. Here you will find course materials, assignments, and useful resources.
+
+<img width="700" alt="AI IBM" src="https://github.com/VijayKakani414/IBM-AI-Engineering-Professional-Certificate/assets/25151205/1f323638-d3a6-4d04-acb9-4d69251332cf">
+
 ## Overview
 
 This repository contains:
